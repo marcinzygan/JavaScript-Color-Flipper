@@ -21,7 +21,7 @@ Features Implemented :
 - For loop to loop 6 times and add to hexColor 6 random numbers by calling the funcion to get random number .
 - Change background color and display current color txt
 
-# This project is Live <a href="https://mz-react-tenzies.netlify.app">Here</a> ! Enjoy .
+# This project is Live <a href="https://js-color-change.netlify.app">Here</a> ! Enjoy .
 
 - Have a nice day 🌞
 
